@@ -1,0 +1,11 @@
+D:\UWP\UWP\Pratical\Ex1\Ex1\obj\ARM\Debug\Ex1.csprojAssemblyReference.cache
+D:\UWP\UWP\Pratical\Ex1\Ex1\obj\ARM\Debug\App.g.i.cs
+D:\UWP\UWP\Pratical\Ex1\Ex1\obj\ARM\Debug\App.g.cs
+D:\UWP\UWP\Pratical\Ex1\Ex1\obj\ARM\Debug\MainPage.g.i.cs
+D:\UWP\UWP\Pratical\Ex1\Ex1\obj\ARM\Debug\MainPage.g.cs
+D:\UWP\UWP\Pratical\Ex1\Ex1\obj\ARM\Debug\XamlTypeInfo.g.cs
+D:\UWP\UWP\Pratical\Ex1\Ex1\obj\ARM\Debug\App.xaml
+D:\UWP\UWP\Pratical\Ex1\Ex1\obj\ARM\Debug\MainPage.xaml
+D:\UWP\UWP\Pratical\Ex1\Ex1\obj\ARM\Debug\App.xbf
+D:\UWP\UWP\Pratical\Ex1\Ex1\obj\ARM\Debug\MainPage.xbf
+D:\UWP\UWP\Pratical\Ex1\Ex1\obj\ARM\Debug\XamlSaveStateFile.xml
